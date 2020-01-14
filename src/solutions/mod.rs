@@ -28,3 +28,4 @@ mod n0031_next_permutation;
 mod n0033_search_in_rotated_sorted_array;
 mod n0034_find_first_and_last_position_of_element_in_sorted_array;
 mod n0124_binary_tree_maximum_path_sum;
+mod n0112_path_sum;
